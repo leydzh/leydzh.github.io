@@ -267,9 +267,12 @@ background-size: cover;
 }
 .soc-listen-block{
     margin: 60px auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .soc-listen-block a{
-    margin: 0 10px;
+    margin: 10px;
 }
 .soc-listen-block img{
 height: 25px;
