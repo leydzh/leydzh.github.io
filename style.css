@@ -327,7 +327,7 @@ height: 25px;
   left:45%;
   top:-17px;
   border-top: 8px solid transparent;
-    border-left: 10px solid #ffe271;
+    border-left: 10px solid #7b7559;
     border-bottom: 8px solid transparent;
     transform:rotate(90deg);
 }
@@ -338,7 +338,7 @@ height: 25px;
   left:45%;
   bottom:-17px;
   border-top: 8px solid transparent;
-    border-left: 10px solid #ffe271;
+    border-left: 10px solid #7b7559;
     border-bottom: 8px solid transparent;
     transform:rotate(-90deg);
 }
