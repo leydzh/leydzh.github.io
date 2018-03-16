@@ -4,6 +4,7 @@ body{
     position: relative;
     font-family: 'Cousine', monospace;
     font-weight: 400;
+    letter-spacing: .5px;
 }
 
 a:focus{
