@@ -1,12 +1,4 @@
-@font-face {
-font-family: "Cousine";
-src: url("assets/fonts/Cousine-Regular.ttf") format("truetype");
-src: url("assets/fonts/Cousine-Italic.ttf") format("truetype");
-src: url("assets/fonts/Cousine-BoldItalic.ttf") format("truetype");
-src: url("assets/fonts/Cousine-Bold.ttf") format("truetype");
-font-style: normal;
-font-weight: normal;
-}
+
 @font-face {
 font-family: "FuturaPT";
 src: url("assets/fonts/FuturaPTMedium.ttf") format("truetype");
