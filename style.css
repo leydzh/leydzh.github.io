@@ -1,11 +1,4 @@
 
-@font-face {
-font-family: "FuturaPT";
-src: url("assets/fonts/FuturaPTMedium.ttf") format("truetype");
-font-style: normal;
-font-weight: normal;
-}
-
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed:400,700');
 @import url('https://fonts.googleapis.com/css?family=Encode+Sans:400,700');
 
@@ -25,7 +18,6 @@ a:focus{
     left:-200vw;
 }
 p{
-    font-family: "Cousine";
     font-size: 25px;
     margin:0;
 }
