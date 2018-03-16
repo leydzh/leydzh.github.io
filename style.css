@@ -12,6 +12,8 @@ font-weight: normal;
 body{
     overflow-x: hidden;
     position: relative;
+    font-family: 'Cousine', monospace;
+    font-weight: 400;
 }
 
 a:focus{
